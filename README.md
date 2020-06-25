@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en" dir="ltr">
 
 <head>
@@ -33,7 +33,6 @@
         <td>2007-2013</td>
         <td>Pakistan International of RIYADH</td>
       </tr>
-
       <tr>
         <td>2013-2018</td>
         <td>Allied School QDS</td>
