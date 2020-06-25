@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
 
 <head>
@@ -48,7 +48,7 @@
   <hr size="3">
 
   <h3>DEGREE</h3>
-  <table cellspacing=20>
+  <table cellspacing="20">
     <thead>
       <th>Type</th>
       <th>Institutde</th>
@@ -68,7 +68,7 @@
   <hr size="3">
 
   <h3>COURSE</h3>
-  <table cellspacing=20>
+  <table cellspacing="20">
     <thead>
       <th>Course</th>
       <th>Instructor</th>
