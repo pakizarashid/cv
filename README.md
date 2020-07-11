@@ -1,17 +1,17 @@
-
+<!DOCTYPE html>
 <html lang="en" dir="ltr">
-
 <head>
   <meta charset="utf-8">
   <title>Ƿakiza CV Site</title>
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
   <table cellspacing="25">
     <tr>
-      <td><img src="images/Public-Relations-pic1.jpg" alt="PR"></td>
+      <td><img class="circular" src="images/Public-Relations-pic1.jpg" alt="PR"></td>
       <td>
-        <h1>PAKIZA</h1>
+        <h1 id="heading">PAKIZA</h1>
         <p><em>Web Developer</em></p>
         <p>I am <strong>Pakeeza Rasheed</strong>. 19 years old with Intermediate education and have a Web Development course. Applied for BsCS and other courses.</p>
         <p><a href="contact.html">Contact Me</a></p>
@@ -19,7 +19,7 @@
     </tr>
   </table>
 
-  <hr size="3">
+  <hr>
 
   <h3>EDUCATION</h3>
   <table cellspacing="20">
@@ -33,6 +33,7 @@
         <td>2007-2013</td>
         <td>Pakistan International of RIYADH</td>
       </tr>
+
       <tr>
         <td>2013-2018</td>
         <td>Allied School QDS</td>
@@ -89,3 +90,4 @@
 </body>
 
 </html>
+
